@@ -57,9 +57,10 @@ Which of the following is true about cardinality constraints on the relationship
 
 
 ## Question 12
-Which of the following statements are true about the technical terms for the concepts represented by relational schemas? Check all that apply. (Note that you will need to select more than one correct response to answer the question correctly.)  
+Question changed to single choice question.
+Which of the following statements are true about the technical terms for the concepts represented by relational schemas? 
 
-- The technical term for items in a relational schema that become columns in a real database is “attributes.”
+- The technical term for items in a relational schema that become columns in a real database is “attributes.”(option no longer available)
 - The technical term for items in a relational schema that become rows in a real database is “tuples.”
 
 
